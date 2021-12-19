@@ -1,0 +1,28 @@
+body {
+	background: #424242;
+}
+
+
+h1 {
+	color: white;
+	text-align: center;
+	background: black;
+	font-size: 100px;
+	font-family: Oswald; 
+}
+
+span{
+	color: gold;
+}
+
+.green_letter {
+	color: green;
+}
+
+.pink_letter {
+	color: pink;
+}
+
+#blue_element {
+	color: blue;
+}
